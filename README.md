@@ -49,7 +49,7 @@ The live version is hosted at: [https://mercyngatia-portfolio.netlify.app](https
 ### Run Locally
 1. Clone the repository:
    ```bash
-   git clone  - https://github.com/mercyngatia/portfolio.git
+   git clone https://github.com/mercyngatia/portfolio.git
 
 2. Open index.html in your browser
 
