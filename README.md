@@ -44,12 +44,12 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 ## Getting Started
 
 ### View Online
-The live version is hosted at: [https://mercyngatia-portfolio.netlify.app](https://mercyngatia-portfolio.netlify.app) <!-- Replace with actual URL -->
+The live version is hosted at: [https://mercyngatia-portfolio.netlify.app](https://mercyngatia.netlify.app/) <!-- Replace with actual URL -->
 
 ### Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mercyngatia/portfolio.git
+   git clone https://github.com/mercyngatia/Mercy.Ngatia.Portfolio.git
 
 2. Open index.html in your browser
 
