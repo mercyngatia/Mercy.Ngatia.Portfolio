@@ -44,7 +44,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 ## Getting Started
 
 ### View Online
-The live version is hosted at: [https://mercyngatia-portfolio.netlify.app](https://mercyngatia-portfolio.netlify.app) <!-- Replace with actual URL -->
+The live version is hosted at: [https://mercyngatia-portfolio.netlify.app](https://mercyngatia.netlify.app/) <!-- Replace with actual URL -->
 
 ### Run Locally
 1. Clone the repository:
